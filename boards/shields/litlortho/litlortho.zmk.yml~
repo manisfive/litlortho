@@ -1,0 +1,14 @@
+file_format: "1"
+id: litlOrtho
+name: Litl Ortholinear
+type: shield
+url: https://github.com/manisfive/litlortho/
+requires:
+    - nice_nano_2
+exposes:
+    - i2c_oled
+    - encoder
+features:
+    - keys
+    - display
+    - encoder

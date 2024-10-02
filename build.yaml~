@@ -17,6 +17,3 @@
 #     artifact-name: corne_left_with_logging
 #
 ---
-shield: ["litlortho"]
-  include:
-    -nice_nano_v2
