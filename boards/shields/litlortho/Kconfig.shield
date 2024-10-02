@@ -1,5 +1,5 @@
-opyright (c) 2021 The ZMK Contributors
+#Copyright (c) 2021 The ZMK Contributors
 # SPDX-License-Identifier: MIT
 #
-# config SHIELD_LITLORTHO
-#     def_bool $(shields_list_contains,litlortho)
+ config SHIELD_LITLORTHO
+     def_bool $(shields_list_contains,litlortho)
