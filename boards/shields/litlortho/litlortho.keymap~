@@ -47,7 +47,7 @@
            bindings = <
                &kp GRAVE &none &none &none &none &kp LPAR &kp RPAR &kp N7 &kp N8 &kp N9 &kp KP_ASTERISK &kp BSPC &kp COMMA
                &kp CAPS &sys_reset &bootloader &none &none &kp LBRC &kp RBRC &kp N4 &kp N5 &kp N6 &kp SLASH &kp EQUAL
-               &trans &out OUT_TOG &bt BT_CLR_ALL &bt BT_NXT &none &kp LBKT &kp RBKT &kp N1 &kp N2 &kp N3 &kp BSLH &kp MINUS
+               &trans &out OUT_BLE &bt BT_CLR_ALL &bt BT_NXT &none &kp LBKT &kp RBKT &kp N1 &kp N2 &kp N3 &kp BSLH &kp MINUS
                &trans &trans &trans &trans &trans &kp SPACE &kp N0 &kp PG_UP &kp END &kp HOME &kp PG_DN
                   >;
              };
